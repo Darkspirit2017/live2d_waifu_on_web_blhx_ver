@@ -8,7 +8,7 @@
 ### 演示Demo
 可在[本人博客](https://darkunicorn.me)左下角查看效果。（注：以下人物模型仅供展示之用，本仓库并不包含任何模型。）
 
-<img src="screenshots/Unicore.png" width="280"><img src="screenshots/Lafite.png" width="280">
+<img src="screenshots/Unicore.png"><img src="screenshots/Lafite.png">
 
 ### 使用方法
 
@@ -28,16 +28,16 @@
 ## 模型与音频文件结构
 
 ### 模型文件夹结构
-<img src="screenshots/assets_structure.png" width="280">
+<img src="screenshots/assets_structure.png">
 
 ### 模型文件结构树
-<img src="screenshots/assets_file_structure.png" width="280">
+<img src="screenshots/assets_file_structure.png">
 
 ### model_list.json结构样本
-<img src="screenshots/model_list_structure.png" width="280">
+<img src="screenshots/model_list_structure.png">
 
 ### sound.json结构样本
-<img src="screenshots/sounds_json.png" width="280">
+<img src="screenshots/sounds_json.png">
 
 ## Work in Progress
 - 代码命名注释等不规范问题
