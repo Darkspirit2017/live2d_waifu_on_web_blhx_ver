@@ -17,7 +17,7 @@
  
 2.可自定义添加blhx模型与音频文件
  - blhx模型默认可放在assets下, 模型与音频来源于途经请自行摸索(笑)
- - 音频文件建议先压缩一边
+ - 音频文件建议先压缩一遍
 
 3.自行下载Live2d SDKs
 - 请自行下载Live2d SDKs并把文件放在 ./live2d/src/lib/里的core和framework中
