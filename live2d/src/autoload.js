@@ -43,9 +43,9 @@ function autoload() {
     Live2DWaifu.initL2DWaifu();
     console.log(Live2DWaifu.modelNameList);
 
-    $("body").append('<div class="live2d-tool hide-live2d no-select" onclick="hideModel()"><div class="keys">Hide</div></div>');
-    $("body").append('<div class="live2d-tool switch-live2d no-select" onclick="switchModels()"><div class="keys">Switch</div></div>');
-    $("body").append('<div class="live2d-tool save-live2d no-select" onclick="muteModel()"><div class="keys">Mute</div></div>');
+    $("body").append('<div class="live2d-tool hide-live2d no-select" onclick="Live2DWaifu.hideModel()"><div class="keys">Hide</div></div>');
+    $("body").append('<div class="live2d-tool switch-live2d no-select" onclick="Live2DWaifu.switchModels()"><div class="keys">Switch</div></div>');
+    $("body").append('<div class="live2d-tool save-live2d no-select" onclick="Live2DWaifu.muteModel()"><div class="keys">Mute</div></div>');
 
 }
 autoload()
